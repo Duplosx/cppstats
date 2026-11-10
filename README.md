@@ -3,6 +3,7 @@
 
 ## License & Copyright
 * Copyright (C) 2009-2015 University of Passau, Germany
+* Copyright (C) 2023-2026 Saarland University, Germany
 
 All rights reserved.
 
@@ -11,12 +12,13 @@ The full license text is distributed with this software. See the `LICENSE.LESSER
 
 ### Main Developers
 
-* Jörg Liebig <joliebig@fim.uni-passau.de>, University of Passau
-* Claus Hunsen <hunsen@fim.uni-passau.de>, University of Passau
+* Jörg Liebig, University of Passau
+* Claus Hunsen, University of Passau
 
 ### Further Contributors
 
-* Andreas Ringlstetter <andreas.ringlstetter@gmail.com>, OTH Regensburg
+* Andreas Ringlstetter, OTH Regensburg
+* Niklas Schneider, Saarland University
 
 ## What is it?
 
@@ -60,9 +62,8 @@ system.
 
 In detail, cppstats was successfully tested under:
 
-* Ubuntu 12.04, Python >= 3.10, and
+* Ubuntu 22.04, Python >= 3.10, and
 * Cygwin, Python >= 3.10.
-
 
 ## Quick Start
 
